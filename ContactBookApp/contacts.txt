@@ -1,0 +1,5 @@
+"Ari","Ade",59750700,"ari@gmail.com","2017/08/01","personal"
+"Jamie","Kim",8100765,"jam@gmail.com","2017/08/01","personal"
+"Iyinoluwa","Fisher",24680813,"iyin@gmail.com","2017/08/01","business"
+"Derrikk","Cane",00887766,"cane@gmail.com","2018/01/12","personal"
+"Mindy","Markle",15987534,"min@gmail.com","2018/02/10","business"

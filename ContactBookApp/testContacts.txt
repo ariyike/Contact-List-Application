@@ -1,0 +1,3 @@
+"firstName1","lastName1",12345678,"1email@gmail","2018/07/01","1contactType"
+"firstName2","lastName2",22222222,"2email@gmail","2018/07/02","2contactType"
+"firstName3","lastName3",33333333,"3email@gmail","2018/07/03","3contactType"
